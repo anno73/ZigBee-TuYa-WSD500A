@@ -1,9 +1,19 @@
 # ZigBee-TuYa-WSD500A
 
 Temperature and Huidity Sensor
+* https://smarthomescene.com/reviews/tuya-temperature-humidity-sensor-wsd500a/
+* https://www.zigbee2mqtt.io/devices/WSD500A.html#tuya-wsd500a
 
-Zigbee Module: TuYA ZTU (https://developer.tuya.com/en/docs/iot/ztu-module-datasheet?id=Ka45nl4ywgabp)
-Sensor: CHT8305 (http://en.sensylink.com/a/products/lm2/CHT8305.html)
+## Noteable Components
+
+### TuYA ZTU 
+* https://developer.tuya.com/en/docs/iot/ztu-module-datasheet?id=Ka45nl4ywgabp
+* https://solution.tuya.com/hardware/detail/61005
+
+### CHT8305 
+* http://en.sensylink.com/a/products/lm2/CHT8305.html
+
+## Connections
 
 Pin Header
 | Pin | ZTU | Function
